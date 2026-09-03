@@ -13,22 +13,6 @@ The system integrates:
 - Automatic Suricata rule generation
 
 ## Architecture
-
-Network Traffic
-      ↓
-   Suricata
-      ↓
-Data Processing
-      ↓
-┌──────────────────────────────┐
-│      Hybrid Detection        │
-├──────────────┬───────────────┤
-│ Random Forest│ Bi-LSTM       │
-└──────────────┴───────────────┘
-      ↓
-Decision Fusion
-      ↓
-Attack Detection / Prevention
 ### General Architecture
 
 ![General Architecture](docs/architecture-general.png)
