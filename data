@@ -1,1 +1,6 @@
+## Dataset
 
+This project uses the CICIDS2017 dataset.
+
+The dataset is not included in this repository.
+Please obtain it from its official source before running the experiments.
