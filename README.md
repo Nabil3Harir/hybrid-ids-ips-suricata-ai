@@ -38,7 +38,32 @@ The system achieved:
 
 - F1-Score: > 98%
 - False Positive Rate: < 2%
+## Key Features
+-Network traffic monitoring with Suricata
 
+-Signature-based intrusion detection
+
+-Machine Learning-based traffic classification
+
+-Deep Learning-based temporal pattern analysis
+
+-Hybrid decision fusion
+
+-Automatic Suricata rule generation
+
+-Evaluation using the CICIDS2017 dataset
+## Future Improvements
+Possible future improvements include:
+
+Real-time deployment on live network traffic
+
+Additional Machine Learning and Deep Learning models
+
+Extended evaluation on additional datasets
+
+Performance optimization for real-time detection
+
+Integration with SOC monitoring and alerting workflows
 ## Author
 
 Nabil Harir
